@@ -1,0 +1,43 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar{
+    background-color: black;
+    height: 50px;
+}
+
+a{
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    
+    padding: 0%;
+    /* width: 800px;
+    height: 600px; */
+}
+
+#crown{
+    color: white solid;
+    margin-left: 80px;
+    float: left;
+   text-align: center;
+    margin-top: 20px;
+    
+    
+}
+
+#products{
+   color: white;
+   float: right;
+   text-align: center;
+   margin-right: 80px;
+   margin-top: 20px;
+}
